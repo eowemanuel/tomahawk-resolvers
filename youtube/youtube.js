@@ -23,6 +23,9 @@ var YoutubeResolver = Tomahawk.extend(TomahawkResolver, {
 			}],
 			images: [{
 				"youtube.png" : Tomahawk.readBase64("youtube.png")
+			
+			
+			
 			}]
 		};
 	},
